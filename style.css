@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300;1,400&family=Roboto:ital,wght@1,100;1,300;1,400&display=swap');
+
+.text{
+    color: red;
+     font-size: 22px; 
+     background-color: green;
+}
+h2{
+   font-size: 40px; 
+}
+.title{
+    color:green;
+    font-size: 12px;
+    background-color:yellow;
+}
+
+ul{
+    list-style: circle;
+    width: 100%;
+    height: 400px;
+}
+.item-link{
+    /* text-decoration: ; 
+    valeu: undirline,overline,line-through,
+
+    wavy,dashed,double,dotted,solid,
+    */
+    
+    text-transform: capitalize;
+    /* uppercase,lowercase*/
+    color:red;
+    font-size: 30px;
+}
+.item-text{
+    text-align: center;
+    /* border: 2px dotted red; */
+ /* left,right,center */
+ /* border-width: 2px;
+ border-color: green;
+ border-style: dotted; */
+ 
+}
+div{
+    border: 1px solid black;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
